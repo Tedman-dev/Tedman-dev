@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Bienvenue sur le compte de Tedman-dev
 
-<!--
-**Tedman-dev/Tedman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ici, tu trouveras quelques projets autour du scraping, du traitement de torrents et de l’expérimentation d’API perso.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Projets en cours :
+
+- `YggSources` — Une petite API Node.js pour manipuler des liens torrents.
+
+---
+
+#### ⚙️ Stack préférée :
+
+- Node.js / TypeScript
+- Axios / Express
+- Docker / SSH
+- GitHub Actions (quand ça veut bien)
+
+---
+
+> Ce compte est destiné uniquement à l’expérimentation technique.  
+> **Aucun fichier n’est hébergé. Aucune diffusion. Juste du code.**
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=FriendlyUser-torr&style=flat&color=blue)
